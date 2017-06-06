@@ -19,7 +19,6 @@ public class Categorie implements Serializable {
 		this.photo = photo;
 		this.nomPhoto = nomPhoto;
 	}
-	
 	public Categorie() {
 		super();
 		// TODO Auto-generated constructor stub
